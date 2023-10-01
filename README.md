@@ -13,7 +13,7 @@ In order to use this, you need to have Python 3, Google Chrome and Selenium webd
 Install [Python 3](https://www.python.org/getit/) and run the below commands
 
 ```bash
-git clone https://github.com/navchandar/Naukri.git
+git clone https://github.com/Nav-jangra/Naukri-Profile-updater.git
 cd Naukri
 pip install --upgrade pip
 pip install -r requirements.txt
