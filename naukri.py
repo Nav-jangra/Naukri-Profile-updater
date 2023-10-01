@@ -25,14 +25,14 @@ from webdriver_manager.chrome import ChromeDriverManager as CM
 
 
 # Add folder Path of your resume
-originalResumePath = "/home/naveen.jangra/Videos/resume/Naveen_Jangra_CV-1.pdf"
+originalResumePath = "MY_resumeaa_path.pdf"
 # Add Path where modified resume should be saved
-modifiedResumePath = "/home/naveen.jangra/Videos/resume/Naveen_Jangra_CV.pdf"
+modifiedResumePath = "MY_edited_resume_path.pdf"
 
 # Update your naukri username and password here before running
-username = "naveen.jangra0813@gmail.com"
-password = "Nav0813jangra@"
-mob = "8572890813"  # Type your mobile number here
+username = "MY_USER_NAME"
+password = "MY_PASSWOED"
+mob = "MY_NUMBER"  # Type your mobile number here
 
 # False if you dont want to add Random HIDDEN chars to your resume
 updatePDF = True
